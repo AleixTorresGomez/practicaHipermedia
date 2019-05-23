@@ -1,0 +1,55 @@
+canvas {
+  border: 3px solid black;
+  display: block;
+  margin-top: -11.5%;
+  margin-left: 50%; 
+
+}
+
+.titol{
+  width: 40%;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+body{
+  background-image:url("alumns.jpg");
+  background-size:cover;
+}
+
+.main{
+  width: 39.5%;
+  margin-left: 5%;
+  margin-top: 2%;
+  height: 50%;
+  background-color:#C0C0C0;
+  border: 3px solid black;
+  float: left;
+  font-family: "8BIT WONDER Nominal";
+}
+h2{
+  margin-left: 2%;
+}
+p{
+  margin-left: 2%;
+}
+
+footer{
+  position: fixed;
+  margin-left: 10%;
+  margin-top: 32%;
+  width: 100%;
+  height: 2px;
+  color: white;
+  font-size: 20px;
+}
+.controls{
+  width: 39.5%;
+  margin-left: -40%;
+  margin-top: 15%;
+  height: 50%;
+  background-color:#C0C0C0;
+  border: 3px solid black;
+  float: left;
+  font-family: "8BIT WONDER Nominal";
+}
